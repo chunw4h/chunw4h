@@ -1,4 +1,7 @@
-## Hi there 👋
+## Aloha, I'm Kyle! 👋
+
+Currently, I'm pursuing undergraduate studies in Management Information Systems. I love Open-Source Software (OSS) and am intrigued with the philosophy behind it. 
+Always still learning so much more...!
 
 <!--
 **chunw4h/chunw4h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
