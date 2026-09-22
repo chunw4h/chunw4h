@@ -1,6 +1,6 @@
 ## Aloha, I'm Kyle! 👋
 
-I'm currently diving into my undergraduate studies in Management Information Systems—너무 재밌어요! (It's so much fun!) 😊 I'm totally smitten with Open-Source Software (OSS) and the whole philosophy behind it. There's just something so powerful about collaboration and transparency, isn't there? 항상 배우고 있어요... 😩
+I'm currently diving into my undergraduate studies in Management Information Systems (너무 재밌어요~) 😊 I'm smitten with the idea of Open-Source Software (OSS) and the whole philosophy behind it. There's just something so powerful about collaboration and transparency, isn't there? 항상 배우고 있어요... 😩
 
 <!--
 **chunw4h/chunw4h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
