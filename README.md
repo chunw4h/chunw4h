@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&pause=1000&color=D472A8&center=true&vCenter=true&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%F0%9F%91%8B;Hello!+%F0%9F%91%8B;Aloha!+%F0%9F%A4%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Retina&pause=1000&color=D4D4D4&center=true&vCenter=true&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%F0%9F%91%8B;Hello!+%F0%9F%91%8B;Aloha!+%F0%9F%A4%99)](https://git.io/typing-svg)
+An undergraduate studying Management Information Systems, with a passion for endorsing and supporting Free & Open Source Software. 💙 Currently interested in... Fedora Linux, Universal Blue, Ultramarine Linux & Fyra Labs. 
 
 <!--
 **chunw4h/chunw4h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
