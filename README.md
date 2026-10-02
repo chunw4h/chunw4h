@@ -1,6 +1,4 @@
-## Aloha, I'm Kyle! 👋
-
-I'm currently diving into my undergraduate studies in Management Information Systems (너무 재밌다~) I'm enamored with the idea of Open-Source Software (OSS) and the whole philosophy behind it. Just so interested by the idea of transparent collaboration between people on the internet, working towards a positive, collective goal... (항상 배우고 있다... 😩)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&pause=1000&color=D472A8&center=true&vCenter=true&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%F0%9F%91%8B;Hello!+%F0%9F%91%8B;Aloha!+%F0%9F%A4%99)](https://git.io/typing-svg)
 
 <!--
 **chunw4h/chunw4h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
