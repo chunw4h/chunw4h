@@ -7,7 +7,7 @@ I’m a long-time tech tinkerer with a deep interest in **Free and Open-Source S
 
 | Tool | What I use it for |
 |---|---|
-| [Mozilla Firefox](https://www.mozilla.org/firefox/) · [Source code](https://github.com/mozilla/gecko-dev) | Web browsing |
+| [Mozilla Firefox](https://www.mozilla.org/firefox/) · [Source code](https://github.com/mozilla-firefox/firefox) | Web browsing |
 | [AFFiNE](https://affine.pro/) · [GitHub](https://github.com/toeverything/AFFiNE) | Notes and workspace |
 | [Proton Mail / Proton Suite](https://proton.me/) · [Mail client source](https://github.com/ProtonMail/WebClients) | Email and other services |
 | [Zotero](https://www.zotero.org/) · [GitHub](https://github.com/zotero/zotero) | Research and references |
