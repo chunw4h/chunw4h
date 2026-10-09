@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+Retina&pause=1000&color=D4D4D4&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%F0%9F%91%8B;Hello!+%F0%9F%91%8B;Aloha!+%F0%9F%A4%99)](https://git.io/typing-svg)
 
-An undergraduate studying Management Information Systems, with a passion for endorsing and supporting Free & Open Source Software. 💙 Currently interested in... Fedora-based projects such as Universal Blue. 
-I’m a long-time tech tinkerer with a deep interest in **Free and Open-Source Software (FOSS)**. I’m drawn to the philosophy behind open source, the communities that grow around it, and the contributions that keep it moving forward.
+An undergraduate studying Management Information Systems, with a passion for endorsing and supporting Free & Open Source Software. 💙 Currently interested in... Fedora-based projects such as Universal Blue. I’m a growing tech tinkerer with a deep interest in **Free and Open-Source Software (FOSS)**. I’m drawn to the philosophy behind open source, the communities that grow around it, and the contributions that keep it moving forward.
 
-## My Software Stack
+## My Daily Software 'Stack'
 
 | Tool | What I use it for |
 |---|---|
