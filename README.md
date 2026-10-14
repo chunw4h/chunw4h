@@ -2,6 +2,8 @@
 
 I'm an undergraduate studying Management Information Systems! 💙 Currently interested in... Fedora-based projects such as Universal Blue. I’m a growing tech tinkerer with a deep interest in **Free and Open-Source Software (FOSS)**, having been drawn to its philosophy, communities, and contributions to tech and the wider-world. 
 
+Currently, I'm researching various topics in the world of Free & Open-Source Software.
+
 ## My Daily Software 'Stack'
 
 | Software | Use Case |
