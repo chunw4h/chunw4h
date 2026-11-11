@@ -2,6 +2,8 @@
 
 Just an amateur tech tinkerer with a deep interest in **Free and Open-Source Software (FOSS)**, having been drawn to its philosophy, communities, and contributions to tech and the wider-world. Currently, I'm experimenting with various Free & Open-Source Software, as well as researching deep into FOSS philosophy and contributions to a more free and just world. *(저도 한국어 말하기는 정말 서툴러요... 😭)*
 
+Currently, I'm working on "[JuiceIt](https://github.com/chunw4h/juiceit)", an Orange installer via Miniconda for a course I'm enrolled in. Goal is to assist students with the tedious process that was before it. I'm also testing out "[Warptux](https://github.com/chunw4h/warptux)", which automates the installation of the "1.1.1.1" Client from Cloudflare on Linux operating systems. 
+
 ## My Open-Source Software 'Stack'
 
 | Software | Use Case |
