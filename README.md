@@ -2,18 +2,18 @@
 
 Just an amateur tech tinkerer with a deep interest in **Free and Open-Source Software (FOSS)**, having been drawn to its philosophy, communities, and contributions to tech and the wider-world. Currently, I'm experimenting with various Free & Open-Source Software, as well as researching deep into FOSS philosophy and contributions to a more free and just world.
 
-Currently, I'm working on "[JuiceIt](https://github.com/chunw4h/juiceit)", an Orange installer via Miniconda for a course I'm enrolled in. Goal is to assist students with the tedious process that was before it. I'm also testing out "[Warptux](https://github.com/chunw4h/warptux)", which automates the installation of the "1.1.1.1" Client from Cloudflare on Linux operating systems. 
+Currently, I'm working on "[🍊JuiceIt!](https://github.com/chunw4h/juiceit)", an Orange installer via Miniconda for a course I'm enrolled in. Goal is to assist students with the tedious process that was before it. I'm also working on "[💫WARPTux](https://github.com/chunw4h/warptux)", which automates the installation of the "1.1.1.1" Client from Cloudflare on Linux operating systems. 
 
 ## My Open-Source Software 'Stack'
 
 | Software | Use Case |
 |---|---|
-| [Zen Browser](https://zen-browser.app/) · [Source code](https://github.com/zen-browser) | My Web Brorwser |
-| [AFFiNE](https://affine.pro/) · [Source code](https://github.com/toeverything/AFFiNE) | Cross-platform notes |
+| [Zen Browser](https://zen-browser.app/) · [Source code](https://github.com/zen-browser) | Web browser |
+| [Flowplan Notes](https://flowplan.org) · [Source code](https://github.com/yannicschuller/flowplan) | Cross-platform notes |
 | [Super Productivity](https://super-productivity.com/) · [Source code](https://github.com/super-productivity/super-productivity) | Task and project management |
 | [Proton Suite](https://proton.me/) · [Mail client source](https://github.com/protonmail) | Google Suite Alternative |
 | [Zotero](https://www.zotero.org/) · [Source code](https://github.com/zotero/zotero) | Reference / sources manager |
-| [Zettlr](https://www.zettlr.com/) · [Source code](https://github.com/Zettlr/Zettlr) | Markdown editor |
+| [Zettlr](https://www.zettlr.com/) · [Source code](https://github.com/Zettlr/Zettlr) | Markdown editor & academic writing |
 | [Zed](https://zed.dev/) · [Source code](https://github.com/zed-industries/zed) | Code editor |
 | [AnythingLLM](https://anythingllm.com/) · [Source code](https://github.com/Mintplex-Labs/anything-llm) | Experimenting with Local LLMs |
 
