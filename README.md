@@ -15,7 +15,7 @@ Currently, I'm working on "[🍊JuiceIt!](https://github.com/chunw4h/juiceit)", 
 | [Zotero](https://www.zotero.org/) · [Source code](https://github.com/zotero/zotero) | Reference / sources manager |
 | [Zettlr](https://www.zettlr.com/) · [Source code](https://github.com/Zettlr/Zettlr) | Markdown editor & academic writing |
 | [Zed](https://zed.dev/) · [Source code](https://github.com/zed-industries/zed) | Code editor |
-| [AnythingLLM](https://anythingllm.com/) · [Source code](https://github.com/Mintplex-Labs/anything-llm) | Experimenting with Local LLMs |
+| [AnythingLLM](https://anythingllm.com/) · [Source code](https://github.com/Mintplex-Labs/anything-llm) | LLM Workspaces + Local LLMs |
 
 읽어 주셔서 감사합니다! (참고: 제가 한국어를 잘 못해서 죄송합니다. 😭)
 <!--
