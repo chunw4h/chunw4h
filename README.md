@@ -16,6 +16,7 @@ Currently, I'm working on "[🍊JuiceIt!](https://github.com/chunw4h/juiceit)", 
 | [Zettlr](https://www.zettlr.com/) · [Source code](https://github.com/Zettlr/Zettlr) | Markdown editor & academic writing |
 | [Zed](https://zed.dev/) · [Source code](https://github.com/zed-industries/zed) | Code editor |
 | [AnythingLLM](https://anythingllm.com/) · [Source code](https://github.com/Mintplex-Labs/anything-llm) | LLM Workspaces + Local LLMs |
+| [Bazzite Linux](https://bazzite.gg/) · [Source code](https://github.com/ublue-os/bazzite/) | Operating system 💟 |
 
 읽어 주셔서 감사합니다! (참고: 제가 한국어를 잘 못해서 죄송합니다. 😭)
 <!--
